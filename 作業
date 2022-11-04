@@ -1,0 +1,53 @@
+名詞解釋(5-8句話說完)
+平台（platform）
+系統平台是指在電腦裡讓軟體執行的系統環境，包括硬體環境和軟體環境。
+The system platform refers to the system environment in which the software is executed in the computer, including the hardware environment and the software environment.
+系統平台包括一台電腦的硬體體系結構、作業系統、運行時庫等。
+The system platform includes the hardware architecture, operating system, runtime library, etc. of a computer.
+
+軟體即服務（Software as a Service, SaaS）
+軟體即服務是一種軟體交付模式，不須經過傳統的安裝步驟即可使用，軟體及其相關的資料集中代管於雲端服務。
+Software-as-a-Service is a software delivery model that can be used without going through traditional installation steps. Software and its related data are centrally hosted in cloud services.
+
+虛擬化（virtualization） Type 1 vs. Type 2 hypervisor
+虛擬化是將電腦的各種實體資源，予以抽象、轉換後呈現出來並可供分割、組合為一個或多個電腦組態環境。
+Virtualization is the abstraction and conversion of various physical resources of a computer, which can be divided and combined into one or more computer configuration environments.
+類型 I：原生或裸機類型 
+可以本地安裝並直接在物理主機上運行
+Can be installed locally and run directly on the physical host
+II：寄居或代管
+無法本地安裝且需要作業系統才能在物理主機上運行的管理程
+A hypervisor that cannot be installed locally and requires an operating system to run on a physical host
+
+封閉原始碼（closed source） 開放原始碼（open source）
+
+
+
+檔案副檔名（file extension）
+一個副檔名是跟在主檔名後面的，由一個分隔符號分隔。
+A file extension follows the main filename, separated by a delimiter.
+副檔名重要的作用是讓系統決定當使用者想打開這個檔案的時候用哪種軟體執行
+The important role of the file extension is to let the system decide which software to use when the user wants to open the file
+
+伺服器作業系統（server operating system）
+
+DNS server
+
+web server
+
+database server
+
+ftp server
+
+揮發性記憶體（volatile memory）
+
+非揮發性記憶體（non-volatile memory）
+
+RAM（random access memory，隨機存取記憶體）
+
+快取（cache）
+
+memory hirearchy
+
+多工緩衝處理（spooling）
+

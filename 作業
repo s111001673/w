@@ -19,10 +19,16 @@ II：寄居或代管
 無法本地安裝且需要作業系統才能在物理主機上運行的管理程
 A hypervisor that cannot be installed locally and requires an operating system to run on a physical host
 
-封閉原始碼（closed source） 開放原始碼（open source）
+封閉原始碼（closed source）
+是軟件的發布者或其他人保留某些許可使用、修改、共享修改或共享軟件的權利，
+Proprietary softwais computer software for which the software's publisher or another person reserves some licensing rights to use, modify, share modifications, or share the software, 
+限制用戶使用該軟件的自由的計算機軟件
+restricting user freedom with the software they lease
 
-
-
+開放原始碼（open source）
+開放原始碼是指一種計算機程序，其中源代碼可供公眾使用或對其原始設計進行修改。
+ open source refers to a computer program in which the source code is available to the general public for use or modification from its original design.
+ 
 檔案副檔名（file extension）
 一個副檔名是跟在主檔名後面的，由一個分隔符號分隔。
 A file extension follows the main filename, separated by a delimiter.
@@ -30,24 +36,54 @@ A file extension follows the main filename, separated by a delimiter.
 The important role of the file extension is to let the system decide which software to use when the user wants to open the file
 
 伺服器作業系統（server operating system）
+服務器操作系統在客戶端-服務器架構中的服務器上運行，並為網絡內的客戶端機器提供多種服務
+A server operating system runs on a server in a client-server architecture and provides multiple services to client machines within the network.
 
 DNS server
+網域名稱系統將人們可讀取的網域名稱 轉換為機器可讀取的 IP 地址。
+The domain name system will be replaced with a readable domain name called a machine-readable IP address.
 
 web server
+網路伺服器可以指軟體、也可以指硬體、還可以指它們共同運作的狀態。
+A web server can refer to software, hardware, or the state in which they work together.
+硬體，是存放網路伺服器軟體、還有網站檔案的電腦
+Hardware is a computer that stores web server software and website files
+軟體
+透過域名訪問託管的網站、並將其內容遞送到終端用戶的設備上。
+Access hosted websites through domain names and deliver their content to end users' devices.
 
 database server
+數據庫服務器是用於提供數據庫服務的數據庫軟件的機器
+A database server is a machine for database software that provides database services
 
 ftp server
+FTP 伺服器是讓檔案從某部裝置傳遞至另一部裝置的軟體應用程式。
+An FTP server is a software application that allows files to be passed from one device to another.
 
 揮發性記憶體（volatile memory）
+當電流中斷後，所儲存的資料便會消失的電腦記憶體。
+When the current is interrupted, the stored data will disappear in the computer memory.
 
 非揮發性記憶體（non-volatile memory）
+電源供應中斷後，記憶體所儲存的資料也不會消失
+The data stored in the memory will not disappear after the power supply is interrupted
 
 RAM（random access memory，隨機存取記憶體）
+隨機存取存儲器是與 CPU 直接交換數據的內部存儲器。
+Random access memory is the internal memory that exchanges data directly with the CPU.
+它可以隨時讀寫，而且速度很快，通常作為操作系統或其他正在運行中的程式的臨時資料存儲媒介。
+It can be read and written at any time, is fast, and is often used as a temporary data storage medium for the operating system or other running programs.
 
 快取（cache）
+存取速度比一般隨機存取記憶體快的一種RAM，
+A type of RAM whose access speed is faster than that of general random access memory,
 
 memory hirearchy
+在電腦架構下儲存系統階層的排列順序。
+Stores the arrangement order of the system hierarchy under the computer architecture.
+暫存器,快取,主記憶體,磁碟儲存
+Register,cache,Main memory,Hard Disk Drive
 
 多工緩衝處理（spooling）
-
+資料緩衝，指傳輸資料的過程中，將資料存放在臨時工作區中
+It is a kind of data buffering, which refers to storing the data in the temporary work area during the process of data transmission.
